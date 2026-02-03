@@ -36,6 +36,12 @@ For this project, I deployed two virtual machines using Microsoft Azure: one hos
 <h2>Step 5) Configured a Custom User Lock Out Policy</h2>
 <img width="1881" height="1198" alt="Custom Lock Out Policy in Group Policy Management Console" src="https://github.com/user-attachments/assets/c03dc8eb-87bf-4d0e-9469-f40628968d0d" />
 
+<h2>Step 6) Chose a Random "Employee" to Simulate an Account Lockout</h2>
+<img width="780" height="577" alt="Account Lockout Message" src="https://github.com/user-attachments/assets/3fab1411-dfc6-4e4f-94dd-3b63668d474a" />
+
+<h2>Step 7) </h2>
+
+
 
 
 
