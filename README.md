@@ -46,6 +46,8 @@ For this project, I deployed two virtual machines using Microsoft Azure: one hos
 
 <img width="833" height="836" alt="Successful Login after Reset" src="https://github.com/user-attachments/assets/4a7e498c-8cd3-4315-8dae-a8436f3bebe8" />
 
+<h2>End) The Resource Group and all of its Resources were Deleted upon Completion of this Project *Not Pictured*</h2>
+
 
 
 
