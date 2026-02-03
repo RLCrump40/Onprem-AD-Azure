@@ -39,7 +39,17 @@ For this project, I deployed two virtual machines using Microsoft Azure: one hos
 <h2>Step 6) Chose a Random "Employee" to Simulate an Account Lockout</h2>
 <img width="780" height="577" alt="Account Lockout Message" src="https://github.com/user-attachments/assets/3fab1411-dfc6-4e4f-94dd-3b63668d474a" />
 
-<h2>Step 7) </h2>
+<h2>Step 7) Unlocked User's Account and Reset Password</h2>
+<img width="1846" height="1089" alt="User Account Unlocked and Password Reset" src="https://github.com/user-attachments/assets/5712732b-8bb2-4515-8674-d21ae8507767" />
+
+<h2> Step 8) Successfully Logged into User's Account after Reset using Client-1 VM </h2>
+
+<img width="833" height="836" alt="Successful Login after Reset" src="https://github.com/user-attachments/assets/4a7e498c-8cd3-4315-8dae-a8436f3bebe8" />
+
+
+
+
+
 
 
 
