@@ -16,3 +16,9 @@ For this project, I deployed two virtual machines using Microsoft Azure: one hos
 
 - Windows Server 2022
 - Windows 11 Pro
+
+<h2>Deployment Steps:</h2>
+
+<h2>Step 1) Successfully provisioned a Resource Group containing the labs VNet and two VMs</h2>
+
+<img width="1916" height="1052" alt="Successfully Deployed DC-Client VMs" src="https://github.com/user-attachments/assets/1e73ebfa-050c-446d-9ba1-a002b5f79ff1" />
