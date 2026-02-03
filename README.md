@@ -34,6 +34,8 @@ For this project, I deployed two virtual machines using Microsoft Azure: one hos
 <img width="1887" height="1181" alt="Created  employees  using Python Script" src="https://github.com/user-attachments/assets/8a082ff9-3fe5-4a95-8d0f-c1c5e6c626df" />
 
 <h2>Step 5) Configured a Custom User Lock Out Policy</h2>
+<img width="1881" height="1198" alt="Custom Lock Out Policy in Group Policy Management Console" src="https://github.com/user-attachments/assets/c03dc8eb-87bf-4d0e-9469-f40628968d0d" />
+
 
 
 
