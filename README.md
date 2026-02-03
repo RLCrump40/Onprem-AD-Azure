@@ -26,7 +26,7 @@ For this project, I deployed two virtual machines using Microsoft Azure: one hos
 <h2>Step 2) Reconfigured the Domain Controller's NIC Private IP to "static"</h2>
 <img width="1917" height="928" alt="DC1 Static IP" src="https://github.com/user-attachments/assets/430ab581-2c93-4a34-b8c4-6c4bd3739834" />
 
-<h2>Step 3) Reconfigured Client-1's DNS settings to DC-1's Private IP Address</h2>
+<h2>Step 3) Reconfigured Client-1's DNS Settings to DC-1's Private IP Address</h2>
 <img width="1853" height="1092" alt="Client1 DNS to DC1 Private Ip" src="https://github.com/user-attachments/assets/5d78fd5c-9556-4e89-9def-18c798ec1cc6" />
 
 <h2>Step 4) Successful Windows Server Connection using RDP - Deployment of Active Directory Domain Services - Creation of Organizational Units - Created "Users/Employees" using PowerShell</h2>
