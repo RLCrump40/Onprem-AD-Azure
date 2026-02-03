@@ -28,3 +28,12 @@ For this project, I deployed two virtual machines using Microsoft Azure: one hos
 
 <h2>Step 3) Reconfigured Client-1's DNS settings to DC-1's Private IP Address</h2>
 <img width="1853" height="1092" alt="Client1 DNS to DC1 Private Ip" src="https://github.com/user-attachments/assets/5d78fd5c-9556-4e89-9def-18c798ec1cc6" />
+
+<h2>Step 4) Successful Windows Server Connection using RDP - Deployment of Active Directory Domain Services - Creation of Organizational Units - Created "Users/Employees" using PowerShell</h2>
+<img width="1888" height="1192" alt="Successful DC Connection" src="https://github.com/user-attachments/assets/eabe2aa3-3540-4c2e-9c11-354e307c4357" />
+<img width="1887" height="1181" alt="Created  employees  using Python Script" src="https://github.com/user-attachments/assets/8a082ff9-3fe5-4a95-8d0f-c1c5e6c626df" />
+
+<h2>Step 5) Configured a Custom User Lock Out Policy</h2>
+
+
+
